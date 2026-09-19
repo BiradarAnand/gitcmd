@@ -1,0 +1,7 @@
+# PROJECT: AutoPR — Autonomous Software Engineering Agent
+
+## OBJECTIVE
+
+Build a working hackathon MVP called *AutoPR*.
+
+AutoPR is an autonomous software engineering agent that takes a software development *Work Item* (initially a Jira ticket), understands its requirements and acceptance criteria, analyzes a G…
